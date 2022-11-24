@@ -38,5 +38,4 @@ if(event.once){
      client.on(event.name , (...args) => event.execute(...args,commands))  ;
 }
 }
-
 client.login(process.env.TOKEN);

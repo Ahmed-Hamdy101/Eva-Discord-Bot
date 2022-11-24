@@ -22,7 +22,6 @@ member.guild.channels.cache.get("920834562072924196").send(
 });
 } 
 
-     
 
  
   

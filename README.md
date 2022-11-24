@@ -1,3 +1,3 @@
-!(Discord)[images/discord+bot.png]
+![Discord]{images/discord+bot.png)
 
 Discord Bot 

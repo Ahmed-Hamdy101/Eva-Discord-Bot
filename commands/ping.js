@@ -34,5 +34,4 @@ console.log({ string, integer, boolean, user, member, channel, role, mentionable
              if(mentionable) interaction.reply(`You were Mention  to  ${mentionable}  / Mr.${interaction.user}  `);
                
           }
-
           }
